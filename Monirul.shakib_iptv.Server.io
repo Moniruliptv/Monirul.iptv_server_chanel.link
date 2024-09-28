@@ -64,6 +64,18 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 https://cdn2.ihub.live/Tsports/index.m3u8?token=b64d9f67acb6f07a2a704bbb656afe6f074945ee-981207f5c7275514b499401613052691-1727527663-1727516863
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/10zrWYN/GTVBangladesh-Logo-1.png"group-title="Bangladeshi", G-TV
+
+https://cdn2.ihub.live/GTV/index.m3u8?token=2252555f0e2677c5ea66b722ac69e569c1a2d4ab-f03c2ba30ae3524fdbab9d588f278acc-1727544585-1727533785
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mqMxWJL/images-1-19.jpg" group-title="Bangladeshi", Jamuna TV
+
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sPdzTts/images-1-20.jpg" group-title="Bangladeshi", Jogo News 24
+
+https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
 
 
 
