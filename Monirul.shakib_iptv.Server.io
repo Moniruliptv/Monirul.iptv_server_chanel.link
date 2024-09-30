@@ -76,8 +76,12 @@ https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GVh0fnC/images-1-13.png" group-title="Bangladeshi", independent tv
 
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=u7_BpNfWo5YRqQqmZzrCCg&expires=1727908212&user=811838a63b224e85b02b925b31d0fece
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QM4FJGK/images-1-14.png" group-title="Bangladeshi", Baisakhi tv
 
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=-4OVsosDux7fHIPg8hCMzQ&expires=1727908521&user=811838a63b224e85b02b925b31d0fece
 
 
