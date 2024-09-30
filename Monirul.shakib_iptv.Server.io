@@ -62,7 +62,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v12nJjW/images-1-6.png" group-title="Sports channel ", T-Sports HD
 
-https://cdn2.ihub.live/Tsports/index.m3u8?token=b64d9f67acb6f07a2a704bbb656afe6f074945ee-981207f5c7275514b499401613052691-1727527663-1727516863
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=gxbc8QXb17mUjd0smQMdpg&expires=1727911516&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/10zrWYN/GTVBangladesh-Logo-1.png"group-title="Bangladeshi", G-TV
 
