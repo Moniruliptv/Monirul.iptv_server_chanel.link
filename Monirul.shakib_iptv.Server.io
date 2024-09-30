@@ -108,5 +108,7 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=slAjWUKTFCnM
 
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=nOdInJwqSNKLm64UHsSi1Q&expires=1727909325&user=811838a63b224e85b02b925b31d0fece
 
+#EXTINF:-1 tvg-logo="https://fredflix.xyz/upload/Movies logo/toofan(1).png" group-title="Bangla Movie ", Tofan new Movie
 
+m3u8 link
 
