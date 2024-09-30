@@ -84,4 +84,29 @@ https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=u7_BpNfW
 
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=-4OVsosDux7fHIPg8hCMzQ&expires=1727908521&user=811838a63b224e85b02b925b31d0fece
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VvsL0Fc/images-1-10.png" group-title="Bangladeshi", N-TV
+
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=wHiTccPQq1DwEbQt1MO7Ow&expires=1727909069&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDCfqvm/images-1-8.png" group-title="Bangladeshi", ATN NEWS
+
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=SS0mpz57Da77FYEuU-_FQw&expires=1727908761&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/12STj7t/images-1-15.png" group-title="Bangladeshi", নাগরিক TV
+
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=SAvmgrumgGic4w4WnBgrNA&expires=1727909158&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R3dyWh0/Desh-tv-logo.jpg" group-title="Bangladeshi", DESH TV
+
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=6KT-wFAPB-RGvavdx3K0Ug&expires=1727909202&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kxv5Vbq/images-1-9.png" group-title="Bangladeshi", একুশে E-TV
+
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=slAjWUKTFCnM8c3sgmhZrw&expires=1727909255&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/41dy79c/images-1-21.jpg" group-title="Bangladeshi", SA TV
+
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=nOdInJwqSNKLm64UHsSi1Q&expires=1727909325&user=811838a63b224e85b02b925b31d0fece
+
+
 
