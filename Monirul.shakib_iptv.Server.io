@@ -110,5 +110,14 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=nOdInJwqSNKLm64UH
 
 #EXTINF:-1 tvg-logo="https://fredflix.xyz/upload/Movies logo/toofan(1).png" group-title="Bangla Movie ", Tofan new Movie
 
-m3u8 link
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qNLnNF4/image.png" group-title="Bangladeshi", আনন্দ TV
+
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+
+
+
+
+
 
