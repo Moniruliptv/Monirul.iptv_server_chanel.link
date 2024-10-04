@@ -124,4 +124,13 @@ https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=F-37asit0EY3bT
 
 https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=c9rdKrcXdk8R2AIRttv3-w&expires=1728224966&user=811838a63b224e85b02b925b31d0fece
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xNmyV9/images-1-22.jpg" group-title="Bangladeshi", Bangla Vision TV
+
+https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+
+
+
+
+
+
 
