@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/n8KBryk/download-1.png" group-title="Bangladeshi", ATN BANGLA 
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=KolMIyHkIeIjbhMPzPUZNw&expires=1728224569&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9G8B4L/Rtv-bangladesh-svg-1.png" group-title="Bangladeshi", R-TV 
 
@@ -116,8 +116,12 @@ https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7t
 
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gy16WWh/images-1-16.png" group-title="Bangladeshi", Bijoy TV
 
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=F-37asit0EY3bTgO-8esDA&expires=1728224695&user=811838a63b224e85b02b925b31d0fece
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lt6hTBW/download-2.png" group-title="Bangladeshi", Nexus Television 
 
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=c9rdKrcXdk8R2AIRttv3-w&expires=1728224966&user=811838a63b224e85b02b925b31d0fece
 
 
