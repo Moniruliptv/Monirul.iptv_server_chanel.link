@@ -128,6 +128,21 @@ https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=c9rdKrcXdk8R2A
 
 https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/grbvjp2/images-1-23.jpg" group-title="Carton Chanel", Rongeen TV
+
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wk2DmrW/image-Content-57985-khvdchrs-m2.png" group-title="Carton Chanel", Gubbare TV
+
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+
+
+
+
+
+
+
 
 
 
