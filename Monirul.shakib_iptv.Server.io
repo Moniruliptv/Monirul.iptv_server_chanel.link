@@ -136,7 +136,9 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD VS ind ", BD VS ind
 
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 
 
 
