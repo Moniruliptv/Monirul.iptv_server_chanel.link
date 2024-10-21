@@ -38,7 +38,7 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D0wH6X/images-1-11.jpg" group-title="Kolkata ", Zee Bangla 
 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+http://103.124.251.164:28015/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KWqKzv8/images-1-17.jpg" group-title="Kolkata", Zee Bangla HD
 
