@@ -1,16 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/n8KBryk/download-1.png" group-title="Bangladeshi", ATN BANGLA 
-
-http://103.175.242.10:8080/ntv/index.m3u8
+https://advance.iptvxpose.workers.dev/@ATNNews24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9G8B4L/Rtv-bangladesh-svg-1.png" group-title="Bangladeshi", R-TV 
 
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+https://advance.iptvxpose.workers.dev/@RtvNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/K5RrYWN/Channel-i-svg.png" group-title="Bangladeshi", Channel I HD
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+https://advance.iptvxpose.workers.dev/@ChanneliNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSq84NL/svg.png" group-title="Bangladeshi", Asian TV
 
@@ -26,15 +25,15 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GJg76Wv/DBC-News-Logo-svg.png" group-title="Bangladeshi", DBC NEWS
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://advance.iptvxpose.workers.dev/@dbcnewstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F43QydW/channel-s.jpg" group-title="Bangladeshi", Channel S
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+http://38.96.178.201/live/SangeetBangla/index.m3u8#
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/L9fxRsT/images-1-11.png" group-title="Bangladeshi", Somoy TV
 
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+https://advance.iptvxpose.workers.dev/@somoynews360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D0wH6X/images-1-11.jpg" group-title="Kolkata ", Zee Bangla 
 
@@ -50,7 +49,7 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F8gcyvm/images-1-18.jpg" group-title="Kolkata", Colours Bangla HD 
 
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB&e=.m3u8
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zg3HbSg/images-1-12.png" group-title="Kolkata "Zee Bangla Cinema 
 
@@ -69,7 +68,7 @@ https://bdixtv247.xyz/m3u8.php?id=gazi_tv_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mqMxWJL/images-1-19.jpg" group-title="Bangladeshi", Jamuna TV
 
-https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+https://advance.iptvxpose.workers.dev/@JamunaTVbd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sPdzTts/images-1-20.jpg" group-title="Bangladeshi", Jogo News 24
 
@@ -85,7 +84,7 @@ https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=-4OVsosDux
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VvsL0Fc/images-1-10.png" group-title="Bangladeshi", N-TV
 
-http://103.175.242.10:8080/ntv/index.m3u8
+https://advance.iptvxpose.workers.dev/@NTVDigitalLive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KDCfqvm/images-1-8.png" group-title="Bangladeshi", ATN NEWS
 
@@ -142,6 +141,9 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata", Jalsha movies
+
+http://38.96.178.201/live/JalshaMovies/index.m3u8
 
 
 
