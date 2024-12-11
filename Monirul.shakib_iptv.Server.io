@@ -38,7 +38,7 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D0wH6X/images-1-11.jpg" group-title="Kolkata ", Zee Bangla 
 
-http://103.124.251.164:28015/play/a00v/index.m3u8
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KWqKzv8/images-1-17.jpg" group-title="Kolkata", Zee Bangla HD
 
@@ -46,7 +46,7 @@ https://la.drmlive.au/tp/zee-zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6vcRgmV/download-6.jpg" group-title="Kolkata ", Star Jalsha 
 
-http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F8gcyvm/images-1-18.jpg" group-title="Kolkata", Colours Bangla HD 
 
@@ -62,11 +62,10 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v12nJjW/images-1-6.png" group-title="Sports channel ", T-Sports HD
 
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=gxbc8QXb17mUjd0smQMdpg&expires=1727911516&user=811838a63b224e85b02b925b31d0fece
+https://bdixtv247.xyz/m3u8.php?id=t_sports&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/10zrWYN/GTVBangladesh-Logo-1.png"group-title="Bangladeshi", G-TV
-
-https://cdn2.ihub.live/GTV/index.m3u8?token=2252555f0e2677c5ea66b722ac69e569c1a2d4ab-f03c2ba30ae3524fdbab9d588f278acc-1727544585-1727533785
+https://bdixtv247.xyz/m3u8.php?id=gazi_tv_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mqMxWJL/images-1-19.jpg" group-title="Bangladeshi", Jamuna TV
 
@@ -132,6 +131,9 @@ https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
+EXTINF:-1 tvg-logo="" group-title="Bangladeshi", Soney art
+http://38.96.178.201/live/SonyAath/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wk2DmrW/image-Content-57985-khvdchrs-m2.png" group-title="Carton Chanel", Gubbare TV
 
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
@@ -139,7 +141,6 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD VS ind ", BD VS ind
 
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
 
