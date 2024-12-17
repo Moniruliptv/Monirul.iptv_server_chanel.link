@@ -145,12 +145,9 @@ http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 
 http://38.96.178.201/live/JalshaMovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata ", soney box 
+#EXTINF:-1 Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1734590758:KeyName=prod_linear:Signature=5kbtm9Yo09W_SqtT6WsNcSSiSNLiiuI7khWlgAyrTfutllHejln2cHfU5c5hl8D6_a2Ltwrf9gExXCEazhqxDA="Logo Link" group-title="Kolkata ", soney box 
 
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
-Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1734362659:KeyName=prod_linear:Signature=JTu5VxOgssvS7db9DRIdNN9SJSxNhbw3DbSpYi6TsPNvKAzBVXGtJURBRy9tyxTpiOq7MC8TSMtkq5Q6jEcKBw
-
-
 
 
 
