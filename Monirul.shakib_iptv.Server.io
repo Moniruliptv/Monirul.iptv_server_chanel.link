@@ -625,9 +625,69 @@ https://fifabd.xyz/OPLLX/play.m3u8?id=245900
 
 https://bdixtv247.xyz/m3u8.php?id=macau_lotus&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",GNN News tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
 
+http://watchindia.net:8880/live/55901/63571/1045.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Hum Masala tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
 
+http://watchindia.net:8880/live/55901/63571/1023.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Hum Sitaray tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Hum TV HD tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1022.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Kay 2 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1027.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Khyber News tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1054.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",AVT Khyber tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1034.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Lahore News tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1046.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",PTC Music tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1945.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",PTC News tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1943.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",PTC Simran tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1946.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Zee Punjab HH tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1952.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Zee Punjabi tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/1951.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",& Flix HD tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/2088.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",& Prive HD tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/2103.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg",Movies Now HD tvg-logo="https://i.ibb.co/4s1mpsd/1000023378.jpg" title="nurmd2006"
+
+http://watchindia.net:8880/live/55901/63571/2102.m3u8
 
 
 
