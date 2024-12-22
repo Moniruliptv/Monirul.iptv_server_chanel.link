@@ -58,23 +58,23 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPsWx6937NlTOlRnlgKJULFSZF7s-zBiUZlOXD6O03OFagFaXvDyDgv28CjXN4Vk39xxGfBPIMzS1V5olNWnrsU4S7NuVXf12bMtmhyxsymLj1ALlseQRHbW5NmSDBRXr_axHbrHa6O8NMOLSr88miDSEjIwsUD0hROJcmQ0f7omiYlDv0ScYQcL0xWw/s800/Round%20Photo_Aug222024_202743.png" group-title="nurmd2006",NTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPsWx6937NlTOlRnlgKJULFSZF7s-zBiUZlOXD6O03OFagFaXvDyDgv28CjXN4Vk39xxGfBPIMzS1V5olNWnrsU4S7NuVXf12bMtmhyxsymLj1ALlseQRHbW5NmSDBRXr_axHbrHa6O8NMOLSr88miDSEjIwsUD0hROJcmQ0f7omiYlDv0ScYQcL0xWw/s800/Round%20Photo_Aug222024_202743.png" group-title="Bangladeshi",NTV
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlX2ErvlA5Zs5EIvfZMj3zudRfhmuQhuVLrEgHQoX7BsLE9jqowSlVufYQbWAY4QfTu6oR4781MRKgVm-vPhOvu2vKnBdXo_m4xDiLUeFKrDfTWPDLRhNKfbKuNBTeyzddQdrRz-iZyL5KvhlnC1rQJ-v1R9lbZ36W_JvMRczUUCM_8z6-DolSVOdR_g/s800/Round%20Photo_Aug222024_202758.png" group-title="nurmd2006",RTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlX2ErvlA5Zs5EIvfZMj3zudRfhmuQhuVLrEgHQoX7BsLE9jqowSlVufYQbWAY4QfTu6oR4781MRKgVm-vPhOvu2vKnBdXo_m4xDiLUeFKrDfTWPDLRhNKfbKuNBTeyzddQdrRz-iZyL5KvhlnC1rQJ-v1R9lbZ36W_JvMRczUUCM_8z6-DolSVOdR_g/s800/Round%20Photo_Aug222024_202758.png" group-title="Bangladeshi",RTV
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg38z3b8BErLpsVdUMSgwJlC2HxjgWQEAaKzkYltWiMmcronDvGqr3TE10ZOgEOtfCp2VIJV1lU1gDug0p-EZcNm145mlhKWYHr3jqQtTLSEHbwcImkHgyhrRUT_-4hdCM3zicQpsfNjnL1uu_SShaJZLKvIPbg_PHH9E0GAzdbkjAzqIxXsOSJEL5m4w/s800/Round%20Photo_Aug222024_202806.png" group-title="nurmd2006",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg38z3b8BErLpsVdUMSgwJlC2HxjgWQEAaKzkYltWiMmcronDvGqr3TE10ZOgEOtfCp2VIJV1lU1gDug0p-EZcNm145mlhKWYHr3jqQtTLSEHbwcImkHgyhrRUT_-4hdCM3zicQpsfNjnL1uu_SShaJZLKvIPbg_PHH9E0GAzdbkjAzqIxXsOSJEL5m4w/s800/Round%20Photo_Aug222024_202806.png" group-title="Bangladeshi",Boishakhi TV
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4paPrPvb4yZjBd_1RsiddaciOgaCrq5N0-iorVOghnH9b5tgBiJUOFPZ-D0WdWoC1Yls9FLObIUITV5Zkg4DTTx2OlmzBjZYWb6FT-pHdav4uljzRTy25zZK7o4ttNVr3Ns8EFoLh5IrbaB6vwRyqCNgKV40xf_SxfN4e2P8pVIiBcC_33RkopWKSEw/s800/Round%20Photo_Aug222024_202815.png" group-title="nurmd2006",BanglaVision HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4paPrPvb4yZjBd_1RsiddaciOgaCrq5N0-iorVOghnH9b5tgBiJUOFPZ-D0WdWoC1Yls9FLObIUITV5Zkg4DTTx2OlmzBjZYWb6FT-pHdav4uljzRTy25zZK7o4ttNVr3Ns8EFoLh5IrbaB6vwRyqCNgKV40xf_SxfN4e2P8pVIiBcC_33RkopWKSEw/s800/Round%20Photo_Aug222024_202815.png" group-title"Bangladeshi",BanglaVision HD
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Dzq77exNVwjYyuTX9LlEklANRL7Up5rGbOVveqm2yg3aNgZ5i4y-B7s0pctGA_kQV9YkAMCIvsr1qn9ES1sQVGvaK18YxHUi5ou3ltRckg0ipHifo51OPlQv6FNBDVTFygrYk9_M-R04V2Mjm9h52VD1UBP4rqiu9rgpKCHstoKf9UaBkhL51etp6g/s800/Round%20Photo_Aug222024_202912.png" group-title="nurmd2006",MyTV HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Dzq77exNVwjYyuTX9LlEklANRL7Up5rGbOVveqm2yg3aNgZ5i4y-B7s0pctGA_kQV9YkAMCIvsr1qn9ES1sQVGvaK18YxHUi5ou3ltRckg0ipHifo51OPlQv6FNBDVTFygrYk9_M-R04V2Mjm9h52VD1UBP4rqiu9rgpKCHstoKf9UaBkhL51etp6g/s800/Round%20Photo_Aug222024_202912.png" group-title="Bangladeshi",MyTV HD
 
 https://mytvbangla.com/0.m3u8
 
@@ -238,7 +238,7 @@ https://bdixtv247.xyz/m3u8.php?id=cbeebies_asia&e=.m3u8
 
 https://fifabd.xyz/OPLLX/play.m3u8?id=150483
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" group-title="nurmd2006",Nick India
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1024px-Nick.svg.png" group-title="Cartoon",Nick India
 
 https://fifabd.xyz/OPLLX/play.m3u8?id=150482
 
@@ -378,7 +378,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/3/1/5318605c11b27f0480dbbc7e636c8483_icon.jpg" group-title="nurmd2006",Amazing Discoveries TV
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/3/1/5318605c11b27f0480dbbc7e636c8483_icon.jpg" group-title="Hindi",Amazing Discoveries TV
 
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
@@ -418,7 +418,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg" group-title="nurmd2006",B24C
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg" group-title="Hindi",B24C
 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
 
