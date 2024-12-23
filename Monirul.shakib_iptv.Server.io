@@ -696,7 +696,125 @@ https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/
 
 http://103.240.4.59:8080/movies-now/index.m3u8
 
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",PSJ TV
 
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV: SUPERSPORTS LALIGA HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV : SUPERSPORTS PSL HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV : SUPERSPORTS PREMIERLEAGUE HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV : SUPERSPORTS FOOTBALL HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",UK: PremierSports 1
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",UK: PremierSports 2
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5030.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: SkySports PremierLeague HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: SKYSPORTS FOOTBALL
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/19.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: LIVERPOOL FC HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT SPORT 1
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/286.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT SPORT 2
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/285.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT Sport 3
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/283.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT SPORT 4 FHD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/255259.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: THE PAPARE
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269552.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",INDIE: Sports18_HD1
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269596.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: EUROSPORTS
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/216.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: EUROSPORTS 2 HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: Sports 18 Khel
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: Fast Sports HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/87460.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: FLOW SPORTS
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: T SPORTS.
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: RTA Sports
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1039.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY TEN 1 HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY Ten 2 HD.
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY TEN 3 HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY TEN 4 (FHD)
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY 5 HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY ESPN HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/155.ts
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony TEN 2 HD
+
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
 
 
 
